@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 💫 About Me:
 I'm Ashraf Vali, <br><br>A Computer Science Engineering student passionate about software development, web technologies, and problem-solving. <br><br>I enjoy building full-stack applications, exploring new technologies, and continuously improving my programming skills through real-world projects and coding challenges.<br><br>I'm currently focused on PHP, Java, JavaScript, SQL, Data Structures & Algorithms, and modern web development while expanding my knowledge in AI and software engineering.<br><br>My goal is to build impactful, scalable applications and contribute to open-source projects.<br><br>Always learning. Always building.
 
