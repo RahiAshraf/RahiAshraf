@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.openai.com/static-rsc-4/8u7Op1N2CoEsuinUezmp7SmLVAlHaxDqAmMmzu0CwbIagtDyeKcTvvhoHFLPrbBiykv5Xv99MEgFfkvrn2jnzFEWfd29Jn56OKbzl8UO7Ymj0arkYWYHMWIHa52JAtVAGdPWXcVubpEPCxqadD0unggP05KgvjAySVvoL951Q0g?purpose=inline" width="100%" alt="GitHub Banner">
+  <img src="https://images.openai.com/static-rsc-4/iV7HspvdLuo0VnDU2x_AIcBrXjVbJ30kWEaYJwrnHdJDqP2_D7CDMfB0TKRHmAm7dOgoznv-7Xa91AR8gUn6_m9h86b5ke9GljQUQem0Nr6WQkE4Y0Byei_1RbYpK6PUDr7bYCHwYL-9F_HU3PD8daGjJDia1GhyHKoUVfWg2MGVZyDAeZDfXBdZkATP8s10?purpose=fullsize" width="100%" alt="GitHub Banner">
 </p>
 
 # 💫 About Me:
