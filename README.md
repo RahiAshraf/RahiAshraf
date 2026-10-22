@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://claude.ai/artifact/KBgz5wUQTtSz9koxVBFNVE" width="100%" alt="GitHub Banner">
+  <img src="LinkedIn Banner.png" width="100%" alt="GitHub Banner">
 </p>
 
 # 💫 About Me:
